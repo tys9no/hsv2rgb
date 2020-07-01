@@ -1,0 +1,13 @@
+{
+  "name": "hsv2rgb",
+  "version": "1.0.0",
+  "description": "convert hsv to rgb values.",
+  "scripts": {
+    "test": "mocha tests/valid.js"
+  },
+  "author": "Tsuyoshi Kuno",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.0.0"
+  }
+}
